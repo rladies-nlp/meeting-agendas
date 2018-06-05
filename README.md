@@ -1,6 +1,18 @@
 # meeting-agendas
-Study group meetings &amp; agendas will be posted in this repo! We are study group formed by members of [R-Ladies Chicago](https://www.meetup.com/rladies-chicago).  
-
+Study group meetings &amp; agendas will be posted in this repo!   
+  
+   
+## About our study group  
+  
+We are study group formed by members of [R-Ladies Chicago](https://www.meetup.com/rladies-chicago). By participating in this group, both in person and online, you agree to abide by the [R-Ladies Code of Conduct](https://rladies.org/code-of-conduct/).      
+  
+We aim to accomplish the following **objectives**:  
+  
+* To explore different aspects of text analysis in the R programming language.   
+* To bring together like-minded individuals who are interested in text analysis.  
+* To create a collaborative and friendly learning environment for individuals of all experience levels.    
+  
+  
 ## Upcoming Meetings  
   
 The NLP study group will meet on a monthly basis (either the second Monday or Tuesday of each month, with a few exceptions).  
