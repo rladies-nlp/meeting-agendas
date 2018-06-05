@@ -27,7 +27,7 @@ Meetings are currently scheduled for the following dates:
 * Monday, August 13th  
 * Monday, September 17th  
   
-These dates are subject to change. More dates will be added as they become available.  
+All sessions will take place from 5:45pm to 7:30pm unless otherwise noted. These dates are subject to change. More dates will be added as they become available.  
   
   
 ## Meeting format  
