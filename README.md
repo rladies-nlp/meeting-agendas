@@ -48,5 +48,5 @@ General meeting structure (still a work in progress!):
   
 We are seeking volunteers to give a lightning talk or summary, or suggest a dataset to play with. We also welcome any feedback to make this study group more useful for the R-Ladies Chicago community.  
   
-Talk to us on the **#sg-nlp** slack channel or post something in issues.  
+Any questions? Talk to us on the **#sg-nlp** slack channel or post something in issues.  
  
