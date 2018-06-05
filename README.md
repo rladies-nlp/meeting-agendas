@@ -1,7 +1,7 @@
 # meeting-agendas
 Study group meetings &amp; agendas will be posted in this repo! We are study group formed by members of [R-Ladies Chicago](https://www.meetup.com/rladies-chicago).  
 
-## About our group  
+## Upcoming Meetings  
   
 The NLP study group will meet on a monthly basis (either the second Monday or Tuesday of each month, with a few exceptions).  
   
