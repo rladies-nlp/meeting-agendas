@@ -22,7 +22,7 @@ During our meetings, we'll be going through [Text Mining with R](https://www.tid
 Meetings are currently scheduled for the following dates:  
   
 * Monday, June 4th (virtual planning meeting, see [meeting notes](https://docs.google.com/document/d/1531CUb2xZ1XQsNsYPBOCnlCAKBJkyxXdqyO_TFdDP14/edit?usp=sharing))
-* Tuesday, June 26th  
+* Tuesday, June 26th (6:30-8pm) 
 * Monday, July 9th  
 * Monday, August 13th  
 * Monday, September 17th  
