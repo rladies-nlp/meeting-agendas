@@ -17,7 +17,7 @@ We aim to accomplish the following **objectives**:
   
 The NLP study group will meet on a monthly basis (either the second Monday or Tuesday of each month, with a few exceptions).  
   
-During our meetings, we'll be going through [Text Mining with R](https://www.tidytextmining.com/) in 1-2 chapter increments.  
+During our meetings, we'll be going through [Text Mining with R](https://www.tidytextmining.com/) in 1-2 chapter increments. Materials for these discussions can be found [here](https://github.com/rladies-nlp/tidytext_bookclub).      
   
 Meetings are currently scheduled for the following dates:  
   
@@ -34,7 +34,7 @@ All sessions will take place from 5:45pm to 7:30pm unless otherwise noted. These
   
 ## Meeting format  
   
-~1 week before the meeting, we will assign a chapter (or two) of *Text Mining with R* for attendees to read/skim to read before our meeting. Materials for book club discussions can be found [here](https://github.com/rladies-nlp/tidytext_bookclub).    
+~1 week before the meeting, we will assign a chapter (or two) of *Text Mining with R* for attendees to read/skim to read before our meeting.  
   
 General meeting structure (still a work in progress!):  
   
