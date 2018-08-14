@@ -23,16 +23,18 @@ Meetings are currently scheduled for the following dates:
   
 * Monday, June 4th (virtual planning meeting, see [meeting notes](https://docs.google.com/document/d/1531CUb2xZ1XQsNsYPBOCnlCAKBJkyxXdqyO_TFdDP14/edit?usp=sharing))
 * Tuesday, June 26th (6:30-8pm) 
-* **Tuesday, July 10th (6-8pm)** *note this is a change from a prior announcement*   
+* Tuesday, July 10th (6-8pm)    
 * Monday, August 13th  
-* Monday, September 17th  
+* Monday, September 17th   
+* Monday, October 15th  
+* Monday, November 19th  
   
 All sessions will take place from 5:45pm to 7:30pm unless otherwise noted. These dates are subject to change. More dates will be added as they become available.  
   
   
 ## Meeting format  
   
-~1 week before the meeting, we will assign a chapter (or two) of *Text Mining with R* for attendees to read/skim to read before our meeting.  
+~1 week before the meeting, we will assign a chapter (or two) of *Text Mining with R* for attendees to read/skim to read before our meeting. Materials for book club discussions can be found [here](https://github.com/rladies-nlp/tidytext_bookclub).    
   
 General meeting structure (still a work in progress!):  
   
@@ -46,7 +48,9 @@ General meeting structure (still a work in progress!):
   
 ## We welcome your feedback!  
   
-We are seeking volunteers to give a lightning talk or summary, or suggest a dataset to play with. We also welcome any feedback to make this study group more useful for the R-Ladies Chicago community.  
+We are seeking volunteers to give a lightning talk or summary, or suggest a dataset to play with. We also welcome any feedback to make this study group more useful for the R-Ladies Chicago community.    
   
+Through discussions from study group meetings, we have created a list of topics we want to learn about, which you can view [here](https://docs.google.com/document/d/1DeDto8JnjWWJ5aLKDsNf7SXA4CGEaM-CtsMV2eYkPBo/edit?usp=sharing). An editable version of this list is on our slack channel.   
+    
 Any questions? Talk to us on the **#sg-nlp** slack channel or post something in issues.  
  
